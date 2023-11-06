@@ -1,0 +1,9 @@
+The array in java is an object the moment you say new KW it is an object, it will be created inside the heap memory.
+
+Drawbacks:
+	1) The size is fixed you can't change the size, then you need to create a new array of your preferred size, 
+	   but which will consume more space in the memeory.
+	2) When you want to search something it will traverse in between the elements for searching and inserting values
+	   it will consume lot of time.
+	3) There are some better features with collections that we can perform better with, other than array, but each
+	   and everything has their own specificity.   	   
